@@ -1,2 +1,2 @@
-# klok-beelddenkers-dyslexsie
-Oefen klok voor beelddenkers en/of dyslexsie
+# klok-beelddenkers-dyslexie
+Oefen klok voor beelddenkers en/of dyslexie
